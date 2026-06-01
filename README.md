@@ -17,6 +17,22 @@ A Health Prediction Application developed using Python, Streamlit, SQLite, and a
 - Streamlit
 - SQLite
 - Pandas
+## Screenshots
+
+### Home Page
+![Home Page](01_Home_Page.png)
+
+### Patient Records
+![Patient Records](02_Patient_Records_and_Search.png)
+
+### Update and Delete
+![Update and Delete](03_Update_and_Delete_Record.png)
+
+### Analytics Dashboard
+![Analytics](04_Export_and_Analytics.png)
+
+### Prediction Result
+![Prediction Result](05_Prediction_Result.png)
 
 ## How to Run
 
